@@ -1,1 +1,2 @@
-config: application-prod,version:1
+config:
+    info: application-prod,version:1
