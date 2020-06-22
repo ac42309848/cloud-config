@@ -1,2 +1,2 @@
 config:
-application-dev
+application-dev,version:1
